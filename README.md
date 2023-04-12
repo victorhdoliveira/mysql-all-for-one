@@ -1,5 +1,5 @@
 ## Projeto All For One
-Nesse projeto, foram criadas consultas SQL para manipulação do banco de dados, permitindo exibir, filtrar e manipular dados em tabelas. Essas consultas são usadas para buscar informações específicas no banco de dados, como por exemplo, listar todas as tarefas concluídas em uma determinada data ou exibir o número de tarefas atribuídas a cada usuário. Além disso, as queries também são utilizadas para realizar operações de atualização, inserção ou exclusão de dados em tabelas, garantindo a integridade e consistência do banco de dados. O conhecimento em SQL foi fundamental para garantir a correta manipulação dos dados na aplicação.
+Nesse projeto, foram criadas consultas SQL para manipulação do banco de dados, permitindo exibir, filtrar e manipular dados em tabelas (cada query está em um arquivo sql). Essas consultas são usadas para buscar informações específicas no banco de dados, como por exemplo, listar todas as tarefas concluídas em uma determinada data ou exibir o número de tarefas atribuídas a cada usuário. Além disso, as queries também são utilizadas para realizar operações de atualização, inserção ou exclusão de dados em tabelas, garantindo a integridade e consistência do banco de dados. O conhecimento em SQL foi fundamental para garantir a correta manipulação dos dados na aplicação.
 
 ## Tecnologias
 * Docker
